@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+}
+body{
+    font-family: 'Open Sans Condensed', 'arial';
+}
+/* nav bar */
+nav ul li{
+    display: inline;
+    padding-left: 10px;
+    list-style: none
+}
+a{
+    text-decoration-line: none;
+}
+a:hover{
+    color: chocolate;
+    cursor: pointer;
+}
